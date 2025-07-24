@@ -264,18 +264,7 @@ If you found this project helpful, please:
 - 🐛 Report issues
 - 💡 Suggest improvements
 
-## 🔗 Related Projects
 
-- [Original Gemini](https://gemini.google.com/)
-- [React Documentation](https://reactjs.org/)
-- [Vite Documentation](https://vitejs.dev/)
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/shivas1432/my-gemini-clone)
-![GitHub language count](https://img.shields.io/github/languages/count/shivas1432/my-gemini-clone)
-![GitHub top language](https://img.shields.io/github/languages/top/shivas1432/my-gemini-clone)
-![GitHub last commit](https://img.shields.io/github/last-commit/shivas1432/my-gemini-clone)
 
 ---
 
